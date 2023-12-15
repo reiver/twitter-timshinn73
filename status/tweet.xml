@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../style/tweet.xsl"?>
+<tweet>
+	<created_at></created_at>
+	<id></id>
+	<lang>en</lang>
+	<text></text>
+	<author>
+		<created_at>2012-08-14T02:48:25.000Z</created_at>
+		<id>756317574</id>
+		<name>Tim Shinn</name>
+		<username>timshinn73</username>
+	</author>
+</tweet>
