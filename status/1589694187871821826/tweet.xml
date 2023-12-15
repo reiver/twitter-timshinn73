@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../style/tweet.xsl"?>
+<tweet>
+	<created_at>2022-11-07T19:00:04.000Z</created_at>
+	<id>1589694187871821826</id>
+	<lang>en</lang>
+	<text>Custom character G.I. Joe card art commission. 
+
+Message me if you’d like to get on my commission list. 
+
+#joevember #gijoe #yojoe #arah #arealamericanhero #joevember</text>
+	<attachments>
+		<media>Fg-6cCCWIAE4H87.jpeg</media>
+		<media>Fg-6cCHXoAA8DmE.jpeg</media>
+	</attachments>
+	<author>
+		<created_at>2012-08-14T02:48:25.000Z</created_at>
+		<id>756317574</id>
+		<name>Tim Shinn</name>
+		<username>timshinn73</username>
+	</author>
+</tweet>
