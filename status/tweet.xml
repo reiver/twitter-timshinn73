@@ -5,6 +5,9 @@
 	<id></id>
 	<lang>en</lang>
 	<text></text>
+	<attachments>
+		<media></media>
+	</attachments>
 	<author>
 		<created_at>2012-08-14T02:48:25.000Z</created_at>
 		<id>756317574</id>
